@@ -39,3 +39,6 @@
 
 # debug information files
 *.dwo
+.vscode/tasks.json
+.vscode/launch.json
+VJudge/Lista 1 - Introdução ao C++/A-chmin
