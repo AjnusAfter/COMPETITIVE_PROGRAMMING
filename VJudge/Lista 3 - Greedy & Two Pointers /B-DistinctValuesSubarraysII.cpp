@@ -23,7 +23,25 @@ int main()
         cin >> array[i];
     }
 
-    unordered_map<ll, ll> freq;
+    // ✅ Compressão usando map
+    map<ll, ll> compress;
+    forn(i, 0, n)
+    {
+        compress[array[i]] = 0; // só cria as chaves
+    }
+
+    ll idx = 0;
+    for (auto &p : compress)
+        p.second = idx++; // atribui índice crescente
+
+    // substitui valores no array
+    forn(i, 0, n)
+    {
+        array[i] = compress[array[i]];
+    }
+
+    // ✅ Sliding Window
+    vector<ll> freq(idx, 0);
     ll left_pointer = 0;
     ll distinct = 0;
     ll subarrays_required = 0;
