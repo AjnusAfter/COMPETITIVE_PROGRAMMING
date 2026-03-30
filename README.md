@@ -1,6 +1,6 @@
 ## 🌐 Perfis:
 
-### Codeforces
+### CODEFORCES
 - Jam_Ajna
 - https://codeforces.com/profile/Jam_Ajna
 
