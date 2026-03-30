@@ -15,5 +15,33 @@ int main()
 {
     _;
 
+    ll t;
+    cin >> t;
+
+    while (t--)
+    {
+        ll n;
+        cin >> n;
+
+        ll sum = 0;
+        ll mx = 0;
+        ll ans = 0;
+
+        forn(i, 0, n)
+        {
+            ll x;
+            cin >> x;
+            sum += x;
+            mx = max(mx, x);
+
+            if (2 * mx == sum)
+            {
+                ans++;
+            }
+        }
+
+        cout << ans << ln;
+    }
+
     return 0;
 }
