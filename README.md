@@ -32,7 +32,7 @@
 
 ## 📊 Stats
 
-- Codeforces: Unrated | Solved Problems 2
+- CODEFORCES: Unrated | Solved Problems 2
 - HackerRank: Problem Solving Silver Badge, Python Silver Badge, C Silver Badge
 - VJudge: Solved Problems 21
 - CSES: Submission count 15 | Solved Problems 12
