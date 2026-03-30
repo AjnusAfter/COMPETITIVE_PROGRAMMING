@@ -1,1 +1,50 @@
 # COMPETITIVE_PROGRAMMING
+
+
+
+## 🌐 Perfis:
+
+### Codeforces
+- Jam_Ajna
+- https://codeforces.com/profile/Jam_Ajna
+
+### HackerRank
+- ajnasoares
+- https://www.hackerrank.com/profile/ajnasoares
+
+### VJudge
+- ajna
+- https://vjudge.net/user/ajna
+
+### CSES
+- Ajna
+- https://cses.fi/user/415648
+
+### AtCoder
+- Ajna
+- https://atcoder.jp/users/Ajna
+
+### Kattis
+- ajna
+- https://open.kattis.com/users/ajna
+
+### QOJ
+- Ajna
+- https://qoj.ac/user/profile/Ajna
+
+---
+
+## 📊 Stats
+
+- Codeforces: Unrated | Solved Problems 2
+- HackerRank: Problem Solving Silver Badge, Python Solving Silver Badge, C Silver Badge
+- VJudge: Solved Problems 21
+- CSES: Submission count 15 | Solved Problems 12
+- AtCoder: Unrated | Solved Problems 5
+- Kattis: Score 4.5 | Rank 158922 | Solved Problems 1
+- QOJ: Rating 1800 | Solved Problems 1
+
+
+---
+
+<span class="ml-2" /><span class="inline-block w-3 h-3 rounded-full bg-neutral-a12 align-middle mb-[0.1rem]" />
