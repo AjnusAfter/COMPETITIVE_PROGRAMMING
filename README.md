@@ -1,7 +1,3 @@
-# COMPETITIVE_PROGRAMMING
-
-
-
 ## 🌐 Perfis:
 
 ### Codeforces
