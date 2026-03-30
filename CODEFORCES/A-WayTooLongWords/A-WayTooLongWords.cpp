@@ -26,7 +26,7 @@ int main()
         if (word.length() > 10)
             cout << word[0] << word.length() - 2 << word[word.length() - 1] << ln;
         else
-            cout << word << endl;
+            cout << word << ln;
     }
 
     return 0;
