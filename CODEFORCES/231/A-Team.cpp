@@ -15,5 +15,29 @@ int main()
 {
     _;
 
+    ll n;
+    cin >> n;
+
+    ll will_solve = 0;
+
+    forn(i, 0, n)
+    {
+        v64 v(3);
+        ll sum = 0;
+
+        forn(j, 0, 3)
+        {
+            cin >> v[j];
+            sum += v[j];
+        }
+
+        if (sum >= 2)
+        {
+            will_solve++;
+        }
+    }
+
+    cout << will_solve << ln;
+
     return 0;
 }
