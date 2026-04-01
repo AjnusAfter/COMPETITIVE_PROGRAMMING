@@ -32,12 +32,12 @@
 
 ## 📊 Stats
 
-- CODEFORCES: Unrated | Solved Problems 5
+- CODEFORCES: Unrated | Solved Problems 6
 - HackerRank: Problem Solving Silver Badge, Python Silver Badge, C Silver Badge
-- VJudge: Tried 23 | Solved 23
+- VJudge: Tried 24 | Solved 24
 - CSES: Submission count 15 | Solved Problems 12
 - AtCoder: Unrated | Solved Problems 5
-- Kattis: Score 4.5 | Rank 158922 | Solved Problems 1
+- Kattis: Score 5.5 | Rank PUC-Rio 8; Global 144435 | Solved Problems 2
 - QOJ: Rating 1800 | Solved Problems 1
 
 
