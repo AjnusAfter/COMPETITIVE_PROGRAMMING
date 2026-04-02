@@ -37,7 +37,7 @@
 - VJudge: Tried 24 | Solved 24
 - CSES: Submission count 15 | Solved Problems 12
 - AtCoder: Unrated | Solved Problems 5
-- Kattis: Score 5.5 | Rank PUC-Rio 8; Global 144435 | Solved Problems 2
+- Kattis: Score 8.1 | Rank PUC-Rio #8; Rio de Janeiro #45 Global #117452 | Solved Problems 3
 - QOJ: Rating 1800 | Solved Problems 1
 
 
