@@ -15,7 +15,28 @@ int main()
 {
     _;
 
-    
+    ll n;
+    cin >> n;
+
+    ll x = 0;
+
+    string op_var;
+
+    forn(i, 0, n)
+    {
+        cin >> op_var;
+
+        if (op_var[1] == '+')
+        {
+            x++;
+        }
+        else
+        {
+            x--;
+        }
+    }
+
+    cout << x << ln;
 
     return 0;
 }
