@@ -34,10 +34,10 @@
 
 - CODEFORCES: Unrated | Solved Problems 7
 - HackerRank: Problem Solving Silver Badge, Python Silver Badge, C Silver Badge
-- VJudge: Tried 26 | Solved 26
+- VJudge: Tried 27 | Solved 27
 - CSES: Submission count 15 | Solved Problems 12
 - AtCoder: Unrated | Solved Problems 5
-- Kattis: Score 8.1 | Rank PUC-Rio #8; Rio de Janeiro #45 Global #117452 | Solved Problems 3
+- Kattis: Score 9.2 | Rank PUC-Rio #8; Rio de Janeiro #44 Global #109532 | Solved Problems 4 Fastest Solution 3
 - QOJ: Rating 1800 | Solved Problems 1
 
 
