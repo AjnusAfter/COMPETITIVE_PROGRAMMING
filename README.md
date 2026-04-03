@@ -32,9 +32,9 @@
 
 ## 📊 Stats
 
-- CODEFORCES: Unrated | Solved Problems 6
+- CODEFORCES: Unrated | Solved Problems 7
 - HackerRank: Problem Solving Silver Badge, Python Silver Badge, C Silver Badge
-- VJudge: Tried 25 | Solved 25
+- VJudge: Tried 26 | Solved 26
 - CSES: Submission count 15 | Solved Problems 12
 - AtCoder: Unrated | Solved Problems 5
 - Kattis: Score 8.1 | Rank PUC-Rio #8; Rio de Janeiro #45 Global #117452 | Solved Problems 3
