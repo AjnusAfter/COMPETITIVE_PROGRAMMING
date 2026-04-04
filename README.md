@@ -32,13 +32,18 @@
 
 ## 📊 Stats
 
-- CODEFORCES: Unrated | Solved Problems 12
-- HackerRank: Problem Solving Silver Badge, Python Silver Badge, C Silver Badge
-- VJudge: Tried 32 | Solved 32
-- CSES: Submission count 15 | Solved Problems 12
-- AtCoder: Unrated | Solved Problems 5
-- Kattis: Score 9.2 | Rank PUC-Rio #8; Rio de Janeiro #44 Global #109532 | Solved Problems 4 Fastest Solution 3
-- QOJ: Rating 1800 | Solved Problems 1
+### PROBLEMS
+- **CODEFORCES:** Unrated | Solved Problems: 🔵 **12**
+- **HackerRank:** Problem Solving: 🥈 **Silver** | Python: 🥈 **Silver** | C: 🥈 **Silver**
+- **VJudge:** Tried: 🟠 **32** | Solved: 🟢 **32**
+- **CSES:** Submission count: 🟣 **15** | Solved Problems: 🔵 **12**
+- **AtCoder:** Unrated | Solved Problems: 🔹 **5**
+- **Kattis:** Score: 🟣 **9.2** | Ranking PUC-Rio: 🟢 **#8** | Rio de Janeiro: 🔵 **#44** | Global: ⚫ **#109532**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solved Problems: 🟠 **4** | Fastest Solution: 🔴 **3**
+- **QOJ:** Rating: 🟡 **1800** | Solved Problems: 🔹 **1**
+
+### CONTESTS
+- **CODEFORCES:** [Codeforces Round 1090 (Div. 4)](https://codeforces.com/contest/2218)
 
 
 ---
