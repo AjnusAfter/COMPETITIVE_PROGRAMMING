@@ -40,7 +40,7 @@
 - **AtCoder:** Unrated | Solved Problems: 🔹 **5**
 - **Kattis:** Score: 🟣 **9.2** | Ranking PUC-Rio: 🟢 **#8** | Rio de Janeiro: 🔵 **#44** | Global: ⚫ **#109532**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solved Problems: 🟠 **4** | Fastest Solution: 🔴 **3**
-- **QOJ:** Rating: 🟡 **1800** | Solved Problems: 🔹 **1**
+- **QOJ:** Rating: 🟡 **1800** | Solved Problems: 🔹 **2**
 
 ### CONTESTS
 - **CODEFORCES:** [Codeforces Round 1090 (Div. 4)](https://codeforces.com/contest/2218)
