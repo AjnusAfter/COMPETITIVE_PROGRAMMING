@@ -15,5 +15,30 @@ int main()
 {
     _;
 
+    ll t;
+    cin >> t;
+
+    while (t--)
+    {
+        ll n;
+        cin >> n;
+
+        ll sum = 0;
+
+        // cout << "sum: " << sum << ln;
+
+        forn(i, 0, n)
+        {
+            ll x;
+            cin >> x;
+            // cout << "x: " << x << ln;
+            // cout << "sum += x: " << sum << " += " << x << ln;
+            sum += x;
+            // cout << "sum: " << sum << ln;
+        }
+
+        cout /*<< "maior soma possível: " */ << abs(sum) << ln /* << ln*/;
+    }
+
     return 0;
 }
