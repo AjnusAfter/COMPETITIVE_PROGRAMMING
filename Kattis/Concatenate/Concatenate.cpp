@@ -15,5 +15,10 @@ int main()
 {
     _;
 
+    string s, t;
+    cin >> s >> t;
+
+    cout << s << t << ln;
+
     return 0;
 }
