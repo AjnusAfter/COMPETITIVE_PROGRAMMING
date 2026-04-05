@@ -15,5 +15,10 @@ int main()
 {
     _;
 
+    ll M, N;
+    cin >> M >> N;
+
+    cout << (M * N) / 2 << ln;
+
     return 0;
 }
