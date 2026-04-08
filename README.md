@@ -33,7 +33,7 @@
 ## 📊 Stats
 
 ### PROBLEMS
-- **CODEFORCES:**  Contest Rating: ⚫ **427; Newbie** | Solved Problems: 🔵 **13**
+- **CODEFORCES:**  Contest Rating: ⚫ **427; Newbie** | Solved Problems: 🔵 **14**
 - **HackerRank:** Problem Solving: 🥈 **Silver Badge** | Python: 🥈 **Silver Badge** | C: 🥈 **Silver Badge**
 - **VJudge:** Tried: 🟠 **36** | Solved: 🟢 **36**
 - **CSES:** Submission count: 🟣 **15** | Solved Problems: 🔵 **12**
