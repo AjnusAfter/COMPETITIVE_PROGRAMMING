@@ -15,6 +15,28 @@ int main()
 {
     _;
 
+    ll n, k;
+    cin >> n >> k;
+
+    v64 a(n);
+
+    forn(i, 0, n)
+    {
+        cin >> a[i];
+    }
+
+    ll cutoff = a[k - 1];
+    ll count = 0;
+
+    forn(i, 0, n)
+    {
+        if (a[i] >= cutoff && a[i] > 0)
+        {
+            count++;
+        }
+    }
+
+    cout << count << ln;
 
     return 0;
 }
