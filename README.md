@@ -35,7 +35,7 @@
 ### PROBLEMS
 - **CODEFORCES:**  Contest Rating: ⚫ **427; Newbie** | Solved Problems: 🔵 **15**
 - **HackerRank:** Problem Solving: 🥈 **Silver Badge** | Python: 🥈 **Silver Badge** | C: 🥈 **Silver Badge**
-- **VJudge:** Tried: 🟠 **37** | Solved: 🟢 **37**
+- **VJudge:** Tried: 🟠 **38** | Solved: 🟢 **38**
 - **CSES:** Submission count: 🟣 **15** | Solved Problems: 🔵 **12**
 - **AtCoder:** Unrated | Solved Problems: 🔹 **5**
 - **Kattis:** Score: 🟣 **14.0** | Ranking PUC-Rio: 🟢 **#8** | Rio de Janeiro: 🔵 **#34** | Global: ⚫ **#84497**  
