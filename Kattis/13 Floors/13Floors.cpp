@@ -15,7 +15,13 @@ int main()
 {
     _;
 
-    
+    ll x;
+    ll ans = 0;
+    cin >> x;
+
+    x >= 13 ? ans = x + 1 : ans = x;
+
+    cout << ans << ln;
 
     return 0;
 }
