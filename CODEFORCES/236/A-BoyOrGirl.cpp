@@ -14,8 +14,18 @@ typedef pair<ll, ll> p64;
 int main()
 {
     _;
-
     
+    string s;
+    set<char> distintos;
+    cin >> s;
+
+    for (char c : s)
+    {
+        distintos.insert(c);
+    }
+
+    distintos.size() % 2 == 0 ? cout << "CHAT WITH HER!" : cout << "IGNORE HIM!";
+    cout << ln;
 
     return 0;
 }
