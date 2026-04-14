@@ -38,8 +38,8 @@
 - **VJudge:** Tried: 🟠 **41** | Solved: 🟢 **41**
 - **CSES:** Submission count: 🟣 **18** | Solved Problems: 🔵 **13**
 - **AtCoder:** Unrated | Solved Problems: 🔹 **5**
-- **Kattis:** Score: 🟣 **15.8** | Ranking PUC-Rio: 🟢 **#8** | Rio de Janeiro: 🔵 **#33** | Global: ⚫ **#78225**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solved Problems: 🟠 **8** | Fastest Solution: 🔴 **6**
+- **Kattis:** Score: 🟣 **17.3** | Ranking PUC-Rio: 🟢 **#8** | Rio de Janeiro: 🔵 **#33** | Global: ⚫ **#73911**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solved Problems: 🟠 **9** | Fastest Solution: 🔴 **7**
 - **QOJ:** Rating: 🟡 **1800** | Solved Problems: 🔹 **2**
 
 ### CONTESTS
