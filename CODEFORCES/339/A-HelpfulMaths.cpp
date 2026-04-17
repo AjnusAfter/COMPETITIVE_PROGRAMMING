@@ -15,7 +15,31 @@ int main()
 {
     _;
 
-    
+    string s;
+    cin >> s;
+
+    vector<char> a;
+    for (char c : s)
+    {
+        if (c != '+')
+        {
+            a.push_back(c);
+        }
+    }
+
+    sort(a.begin(), a.end());
+
+    forn(i, 0, a.size())
+    {
+        if (i)
+        {
+            cout << '+';
+        }
+
+        cout << a[i];
+    }
+
+    cout << ln;
 
     return 0;
 }
