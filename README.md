@@ -35,8 +35,8 @@
 ### PROBLEMS
 - **CODEFORCES:**  Contest Rating: ⚫ **427; Newbie** | Solved Problems: 🔵 **18**
 - **HackerRank:** Problem Solving: 🥈 **Silver Badge** | Python: 🥈 **Silver Badge** | C: 🥈 **Silver Badge**
-- **VJudge:** Tried: 🟠 **53** | Solved: 🟢 **53**
-- **CSES:** Submission count: 🟣 **22** | Solved Problems: 🔵 **15**
+- **VJudge:** Tried: 🟠 **54** | Solved: 🟢 **54**
+- **CSES:** Submission count: 🟣 **24** | Solved Problems: 🔵 **16**
 - **AtCoder:** Unrated | Solved Problems: 🔹 **8**
 - **Kattis:** Score: 🟣 **19.4** | Ranking PUC-Rio: 🟢 **#8** | Rio de Janeiro: 🔵 **#32** | Global: ⚫ **#68323**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solved Problems: 🟠 **11** | Fastest Solution: 🔴 **9**
