@@ -49,8 +49,65 @@ int main()
 {
     _;
 
-    vector<v64> g;
-    vector<ll> vis;
+    ll n, m;
+    cin >> n >> m;
+
+    vector<v64> g(n);
+    forn(i, 0, m)
+    {
+        ll a, b;
+        cin >> a >> b;
+
+        a--, b--;
+
+        g[a].push_back(b);
+        g[b].push_back(a);
+    }
+
+    v64 parent(n, -1);
+    v64 dist(n, -1);
+
+    queue<ll> q;
+    q.push(0);                        // 0-based
+    dist[0] = 0;
+
+    while (!q.empty())
+    {
+        ll u = q.front();
+        q.pop();
+
+        for (ll v : g[u])
+        {
+            if (dist[v] == -1)
+            {
+                dist[v] = dist[u] + 1;
+                parent[v] = u;
+                q.push(v);
+            }
+        }
+    }
+
+    if (dist[n - 1] == -1)
+    {
+        cout << "IMPOSSIBLE\n";
+        return 0;
+    }
+
+    v64 path;
+    for (ll cur = n - 1; cur != -1; cur = parent[cur])
+    {
+        path.push_back(cur);
+    }
+    reverse(path.begin(), path.end());
+
+    cout << path.size() << '\n';
+
+    for (ll x : path)
+    {
+        cout << x + 1 << ' ';         // 0-based
+    }
+
+    cout << '\n';
 
     return 0;
 }
