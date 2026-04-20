@@ -15,5 +15,15 @@ int main()
 {
     _;
 
+    string s;
+    cin >> s;
+
+    if (s[0] >= 97 && s[0] <= 122)
+    {
+        s[0] -= 32;
+    }
+
+    cout << s << ln;
+
     return 0;
 }
