@@ -14,9 +14,11 @@ typedef pair<ll, ll> p64;
 int main()
 {
     _;
-    
+
     ll n, m;
     cin >> n >> m;
+
+    cout << n + m << ln;
 
     return 0;
 }
