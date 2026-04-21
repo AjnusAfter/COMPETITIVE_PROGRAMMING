@@ -15,5 +15,10 @@ int main()
 {
     _;
 
+    string s;
+    cin >> s;
+
+    cout << s.size() << ln;
+
     return 0;
 }
