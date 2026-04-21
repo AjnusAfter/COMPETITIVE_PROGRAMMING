@@ -39,7 +39,7 @@
 - **CSES:** Submission count: 🟣 **33** | Solved Problems: 🔵 **20**
 - **AtCoder:** Unrated | Solved Problems: 🔹 **8**
 - **Kattis:** Score: 🟣 **21.7** | Ranking PUC-Rio: 🟢 **#8** | Rio de Janeiro: 🔵 **#30** | Global: ⚫ **#63449**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solved Problems: 🟠 **11** | Fastest Solution: 🔴 **9**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solved Problems: 🟠 **13** | Fastest Solution: 🔴 **11**
 - **QOJ:** Rating: 🟡 **1800** | Solved Problems: 🔹 **2**
 - **CodeChef:** Rank: 🟡 **Rookie League** | Total Problems Solved: 🟠 **1**
 
