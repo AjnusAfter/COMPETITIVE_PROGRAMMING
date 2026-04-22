@@ -58,6 +58,7 @@ bool bfs(vector<string> &g, vector<v64> &vis,
 int main()
 {
     _;
+
     ll n, m;
     cin >> n >> m;
 
@@ -67,7 +68,8 @@ int main()
         cin >> g[i];
     }
 
-    p64 A, B;
+    p64 A;
+    vector<p64> M;
     forn(i, 0, n)
     {
         forn(j, 0, m)
@@ -76,37 +78,13 @@ int main()
             {
                 A = {i, j};
             }
-            if (g[i][j] == 'B')
+            if (g[i][j] == 'M')
             {
-                B = {i, j};
+                M.push_back({i, j});
             }
         }
     }
 
-    vector<v64> vis(n, v64(m, 0));
-    vector<vector<p64>> par(n, vector<p64>(m, {-1, -1}));
-    vector<vector<char>> step(n, vector<char>(m));
-
-    if (!bfs(g, vis, par, step, A, B))
-    {
-        cout << "NO" << ln;
-        return 0;
-    }
-
-    string path;
-    p64 cur = B;
-
-    while (cur != A)
-    {
-        path.push_back(step[cur.first][cur.second]);
-        cur = par[cur.first][cur.second];
-    }
-
-    reverse(path.begin(), path.end());
-
-    cout << "YES" << ln;
-    cout << path.size() << ln;
-    cout << path << ln;
-
     return 0;
 }
+
