@@ -15,7 +15,19 @@ int main()
 {
     _;
 
+    ll a, b;
+    cin >> a >> b; // 1 ≤ a ≤ b ≤ 10)
 
+    ll i = 0;
+    while (!(a > b))
+    {
+        a *= 3;
+        b *= 2;
+
+        i++;
+    }
+
+    cout << i << ln;
 
     return 0;
 }
