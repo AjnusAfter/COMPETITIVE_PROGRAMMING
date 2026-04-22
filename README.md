@@ -33,12 +33,12 @@
 ## 📊 Stats
 
 ### PROBLEMS
-- **CODEFORCES:**  Contest Rating: ⚫ **427; Newbie** | Solved Problems: 🔵 **20**
+- **CODEFORCES:**  Contest Rating: ⚫ **427; Newbie** | Solved Problems: 🔵 **21**
 - **HackerRank:** Problem Solving: 🥈 **Silver Badge** | Python: 🥈 **Silver Badge** | C: 🥈 **Silver Badge**
-- **VJudge:** Tried: 🟠 **62** | Solved: 🟢 **62** | Ranking: 🔴 **#100296**
+- **VJudge:** Tried: 🟠 **64** | Solved: 🟢 **64** | Ranking: 🔴 **#97338**
 - **CSES:** Submission count: 🟣 **33** | Solved Problems: 🔵 **20**
 - **AtCoder:** Unrated | Solved Problems: 🔹 **8**
-- **Kattis:** Score: 🟣 **21.7** | Ranking PUC-Rio: 🟢 **#8** | Rio de Janeiro: 🔵 **#30** | Global: ⚫ **#63449**  
+- **Kattis:** Score: 🟣 **22.8** | Ranking PUC-Rio: 🟢 **#8** | Rio de Janeiro: 🔵 **#29** | Global: ⚫ **#61401**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solved Problems: 🟠 **13** | Fastest Solution: 🔴 **11**
 - **QOJ:** Rating: 🟡 **1800** | Solved Problems: 🔹 **2**
 - **CodeChef:** Rank: 🟡 **Rookie League** | Total Problems Solved: 🟠 **1**
