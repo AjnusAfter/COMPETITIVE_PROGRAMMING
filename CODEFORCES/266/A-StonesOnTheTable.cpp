@@ -15,7 +15,20 @@ int main()
 {
     _;
 
-    
+    ll n;
+    string s;
+    cin >> n >> s;
+
+    ll count = 0;
+    forn(i, 0, s.size())
+    {
+        if (s[i] == s[i + 1])
+        {
+            count++;
+        }
+    }
+
+    cout << count << ln;
 
     return 0;
 }
