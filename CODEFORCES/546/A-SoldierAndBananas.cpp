@@ -15,7 +15,18 @@ int main()
 {
     _;
 
+    ll k, n, w;
+    cin >> k >> n >> w;
+
+    ll total_cost = 0;
+    forn(i, 1, w + 1)
+    {
+        total_cost += i * k;
+    }
+
+    ll borrow = max(0LL, total_cost - n);
     
+    cout << borrow << ln;
 
     return 0;
 }
