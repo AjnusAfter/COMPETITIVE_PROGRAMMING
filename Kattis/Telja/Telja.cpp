@@ -15,7 +15,13 @@ int main()
 {
     _;
 
-    
+    ll n;
+    cin >> n;
+
+    forn(i, 1, n+1)
+    {
+        cout << i << ln;
+    }
 
     return 0;
 }
