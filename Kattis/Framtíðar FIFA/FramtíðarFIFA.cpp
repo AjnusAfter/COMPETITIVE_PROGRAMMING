@@ -15,7 +15,10 @@ int main()
 {
     _;
 
-    
+    ll n, k;
+    cin >> n >> k;
+
+    cout << (n / k) + 2022 << ln;
 
     return 0;
 }
