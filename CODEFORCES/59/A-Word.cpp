@@ -15,5 +15,41 @@ int main()
 {
     _;
 
+    string s;
+    cin >> s;
+
+    ll upp_count = 0;
+    ll low_count = 0;
+    forn(i, 0, s.size())
+    {
+        if (s[i] >= 'A' && s[i] <= 'Z')
+            upp_count++;
+        else
+            low_count++;
+    }
+
+    if (upp_count > low_count)
+    {
+        forn(i, 0, s.size())
+        {
+            if (s[i] >= 'a' && s[i] <= 'z')
+            {
+                s[i] -= 32;
+            }
+        }
+    }
+    else
+    {
+        forn(i, 0, s.size())
+        {
+            if (s[i] >= 'A' && s[i] <= 'Z')
+            {
+                s[i] += 32;
+            }
+        }
+    }
+
+    cout << s << ln;
+
     return 0;
 }
