@@ -15,7 +15,15 @@ int main()
 {
     _;
 
-    
+    ll n, k;
+    cin >> n >> k;
+
+    forn(i, 0, k)
+    {
+        n % 10 == 0 ? n /= 10 : n--;
+    }
+
+    cout << n << ln;
 
     return 0;
 }
