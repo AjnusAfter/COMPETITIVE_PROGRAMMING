@@ -15,7 +15,19 @@ int main()
 {
     _;
 
-    
+    string s;
+    cin >> s;
+
+    // bool is_lucky,is_near_lucky;
+    ll lucky_number_count = 0 /*, seven_count*/;
+
+    forn(i, 0, s.size())
+    {
+        if (s[i] == '4' || s[i] == '7')
+            lucky_number_count++;
+    }
+
+    lucky_number_count == 4 || lucky_number_count == 7 ? cout << "YES" << ln : cout << "NO" << ln;
 
     return 0;
 }
