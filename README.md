@@ -35,10 +35,10 @@
 ### PROBLEMS
 - **CODEFORCES:**  Contest Rating: ⚫ **427; Newbie** | Solved Problems: 🔵 **25**
 - **HackerRank:** Problem Solving: 🥈 **Silver Badge** | Python: 🥈 **Silver Badge** | C: 🥈 **Silver Badge**
-- **VJudge:** Tried: 🟠 **74** | Solved: 🟢 **74** | Ranking: 🔴 **#84104**
+- **VJudge:** Tried: 🟠 **74** | Solved: 🟢 **74** | Ranking: 🔴 **#82967**
 - **CSES:** Submission count: 🟣 **33** | Solved Problems: 🔵 **20**
 - **AtCoder:** Unrated | Solved Problems: 🔹 **8**
-- **Kattis:** Score: 🟣 **28.3** | Ranking PUC-Rio: 🟢 **#8** | Rio de Janeiro: 🔵 **#29** | Global: ⚫ **#52773**  
+- **Kattis:** Score: 🟣 **29.7** | Ranking PUC-Rio: 🟢 **#8** | Rio de Janeiro: 🔵 **#29** | Global: ⚫ **#50989**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solved Problems: 🟠 **19** | Fastest Solution: 🔴 **17**
 - **QOJ:** Rating: 🟡 **1800** | Accepted Problems： 🔹 **3**
 - **CodeChef:** Rank: 🟡 **Rookie League** | Total Problems Solved: 🟠 **1**
