@@ -15,7 +15,23 @@ int main()
 {
     _;
 
-    
+    ll n, k, l = 0, ans = 0;
+    cin >> n;
+
+    map<ll, ll> m;
+    forn(r, 0, n)
+    {
+        cin >> k;
+
+        if (m[k])
+            l = max(l, m[k]);
+            
+        m[k] = r + 1;
+
+        ans = max(ans, r - l + 1);
+    }
+
+    cout << ans << ln;
 
     return 0;
 }
