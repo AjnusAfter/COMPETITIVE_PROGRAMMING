@@ -35,13 +35,13 @@
 ### PROBLEMS
 - **CODEFORCES:**  Contest Rating: ⚫ **427; Newbie** | Solved Problems: 🔵 **27**
 - **HackerRank:** Problem Solving: 🥈 **Silver Badge** | Python: 🥈 **Silver Badge** | C: 🥈 **Silver Badge**
-- **VJudge:** Tried: 🟠 **83** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> | Solved: 🟢 **83** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> | Ranking: 🔴 **#75688** <img src="https://img.shields.io/static/v1?label=&message=%2B964&color=green&style=flat-square" height="13">
-- **CSES:** Submission count: 🟣 **40** <img src="https://img.shields.io/static/v1?label=&message=%2B2&color=green&style=round-square" height="13"> | Solved Problems: 🔵 **22** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13">
+- **VJudge:** Tried: ⚪ **84** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> | Solved: 🟠 **84** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> | Ranking: 🔴 **#73816** <img src="https://img.shields.io/static/v1?label=&message=%2B1872&color=green&style=flat-square" height="13">
+- **CSES:** Submission count: 🟣 **42** <img src="https://img.shields.io/static/v1?label=&message=%2B2&color=green&style=round-square" height="13"> | Solved Problems: 🔵 **23** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13">
 - **AtCoder:** Unrated | Solved Problems: 🔹 **11**
-- **Kattis:** Score: 🟣 **31.4** | Ranking PUC-Rio: 🟢 **#8** | Rio de Janeiro: 🔵 **#29** | Global: ⚫ **#48843**  
+- **Kattis:** Score: 🟣 **31.4** | Ranking PUC-Rio: 🟡 **#8** | Rio de Janeiro: 🔵 **#29** | Global: ⚫ **#48843**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solved Problems: 🟠 **21** | Fastest Solution: 🔴 **19**
 - **QOJ:** Rating: 🟡 **1800** | Accepted Problems： 🔹 **3**
-- **CodeChef:** Rank: 🟡 **Rookie League** | Total Problems Solved: 🟠 **1**
+- **CodeChef:** Rank: ⚪ **Rookie League** | Total Problems Solved: 🟠 **1**
 
 ### CONTESTS
 - **CODEFORCES:** [Codeforces Round 1090 (Div. 4)](https://codeforces.com/contest/2218)
