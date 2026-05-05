@@ -15,7 +15,20 @@ int main()
 {
     _;
 
-    
+    ll n;
+    cin >> n;
+
+    v64 p(n);
+    forn(i, 0, n) cin >> p[i];
+
+    sort(p.begin(), p.end());
+
+    ll media = p[n / 2];
+    ll custo = 0;
+
+    forn(i, 0, n) custo += abs(p[i] - media);
+
+    cout << custo << ln;
 
     return 0;
 }
