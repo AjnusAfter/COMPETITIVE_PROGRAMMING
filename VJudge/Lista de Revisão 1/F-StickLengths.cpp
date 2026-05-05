@@ -23,10 +23,10 @@ int main()
 
     sort(p.begin(), p.end());
 
-    ll media = p[n / 2];
+    ll mediana = p[n / 2];
     ll custo = 0;
 
-    forn(i, 0, n) custo += abs(p[i] - media);
+    forn(i, 0, n) custo += abs(p[i] - mediana);
 
     cout << custo << ln;
 
