@@ -39,8 +39,8 @@
 ### PROBLEMS
 - **CODEFORCES:**  Contest Rating: ⚫ **427; Newbie** | Solved Problems: 🔵 **27**
 - **HackerRank:** Problem Solving: 🥈 **Silver Badge** | Python: 🥈 **Silver Badge** | C: 🥈 **Silver Badge**
-- **VJudge:** Tried: ⚪ **87** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> | Solved: 🟠 **87** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> | Ranking: 🔴 **#71949** <img src="https://img.shields.io/static/v1?label=&message=%2B861&color=green&style=flat-square" height="13">
-- **CSES:** Submission count: 🟣 **44** <img src="https://img.shields.io/static/v1?label=&message=%2B2&color=green&style=round-square" height="13"> | Solved Problems: 🔵 **24** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13">
+- **VJudge:** Tried: ⚪ **90** <img src="https://img.shields.io/static/v1?label=&message=%2B3&color=green&style=round-square" height="13"> | Solved: 🟠 **90** <img src="https://img.shields.io/static/v1?label=&message=%2B3&color=green&style=round-square" height="13"> | Ranking: 🔴 **#68465** <img src="https://img.shields.io/static/v1?label=&message=%2B3484&color=green&style=flat-square" height="13">
+- **CSES:** Submission count: 🟣 **48** <img src="https://img.shields.io/static/v1?label=&message=%2B4&color=green&style=round-square" height="13"> | Solved Problems: 🔵 **25** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13">
 - **AtCoder:** Unrated | Solved Problems: 🔹 **11**
 - **Kattis:** Score: 🟣 **31.4** | Ranking PUC-Rio: 🟡 **#8** | Rio de Janeiro: 🔵 **#29** | Global: ⚫ **#48843**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solved Problems: 🟠 **21** | Fastest Solution: 🔴 **19**
