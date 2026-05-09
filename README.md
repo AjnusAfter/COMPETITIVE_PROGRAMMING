@@ -42,7 +42,7 @@
 - **VJudge:** Tried: ⚪ **91** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> | Solved: 🟠 **91** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> | Ranking: 🔴 **#67661** <img src="https://img.shields.io/static/v1?label=&message=%2B804&color=green&style=flat-square" height="13"> 
 - **CSES:** Submission count: 🟣 **48** | Solved Problems: 🔵 **25**
 - **AtCoder:** Unrated | Solved Problems: 🔹 **11**
-- **Kattis:** Score: 🟣 **3.41** <img src="https://img.shields.io/static/v1?label=&message=%2B2.7&color=green&style=round-square" height="13"> | Ranking PUC-Rio: 🟡 **#8** | Rio de Janeiro: 🔵 **#29** | Global: ⚫ **#48843** <img src="https://img.shields.io/static/v1?label=&message=%2B2984&color=green&style=flat-square" height="13">
+- **Kattis:** Score: 🟣 **34.1** <img src="https://img.shields.io/static/v1?label=&message=%2B2.7&color=green&style=round-square" height="13"> | Ranking PUC-Rio: 🟡 **#8** | Rio de Janeiro: 🔵 **#29** | Global: ⚫ **#48843** <img src="https://img.shields.io/static/v1?label=&message=%2B2984&color=green&style=flat-square" height="13">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solved Problems: 🟠 **22** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> | Fastest Solution: 🔴 **19**
 - **QOJ:** Rating: 🟡 **1800** | Accepted Problems： 🔹 **3**
 - **CodeChef:** Rank: ⚪ **Rookie League** | Total Problems Solved: 🟠 **3**
