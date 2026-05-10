@@ -73,4 +73,6 @@ int main()
 
     for (ll x : ans)
         cout << x << ln;
+
+    return 0;
 }
