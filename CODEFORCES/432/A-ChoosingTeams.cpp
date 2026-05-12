@@ -15,6 +15,24 @@ int main()
 {
     _;
 
+    ll n, k;
+    cin >> n >> k;
+
+    //v64 y(n);
+    //forn(i, 0, n) cin >> y[i];
+
+    ll cnt = 0;
+
+    forn(i, 0, n)
+    {
+        ll y;
+        cin >> y;
+
+        if (y + k <= 5)
+            cnt++;
+    }
+
+    cout << cnt / 3 << ln;
 
     return 0;
 }
