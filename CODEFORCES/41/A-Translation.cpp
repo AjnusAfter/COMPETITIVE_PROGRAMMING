@@ -15,7 +15,18 @@ int main()
 {
     _;
 
-    
+    string s, t;
+    cin >> s >> t;
+
+    forn(i, 0, t.size())
+    {
+        if (s[i] != t[t.size() - 1 - i] || s.size() != t.size())
+        {
+            cout << "NO" << ln;
+            return 0;
+        }
+    }
+    cout << "YES" << ln;
 
     return 0;
 }
