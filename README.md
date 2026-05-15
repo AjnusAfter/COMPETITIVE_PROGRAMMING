@@ -37,12 +37,12 @@
 ## 📊 Stats
 
 ### PROBLEMS
-- **CODEFORCES:**  Contest Rating: ⚫ **427; Newbie** | Solved Problems: 🔵 **29** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13">
+- **CODEFORCES:**  Contest Rating: ⚫ **427; Newbie** | Solved Problems: 🔵 **29**
 - **HackerRank:** Problem Solving: 🥈 **Silver Badge** | Python: 🥈 **Silver Badge** | C: 🥈 **Silver Badge**
-- **VJudge:** Tried: ⚪ **95** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> | Solved: 🟠 **95** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> | Ranking: 🔴 **#64692** <img src="https://img.shields.io/static/v1?label=&message=%2B597&color=green&style=round-square" height="13"> 
+- **VJudge:** Tried: ⚪ **95** | Solved: 🟠 **95** | Ranking: 🔴 **#64692** 
 - **CSES:** Submission count: 🟣 **48** | Solved Problems: 🔵 **25**
 - **AtCoder:** Unrated | Solved Problems: 🔹 **11**
-- **Kattis:** Score: 🟣 **41.1** | Ranking PUC-Rio: 🟡 **#7** | Rio de Janeiro: 🔵 **#27** | Global: ⚫ **#39304** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Solved Problems: 🟠 **24** | Fastest Solution: 🔴 **21**
+- **Kattis:** Score: 🟣 **43.2** <img src="https://img.shields.io/static/v1?label=&message=%2B2.1&color=green&style=round-square" height="13"> | Ranking PUC-Rio: 🟡 **#7** | Rio de Janeiro: 🔵 **#26** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> | Global: ⚫ **#37563** <img src="https://img.shields.io/static/v1?label=&message=%2B1741&color=green&style=round-square" height="13"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Solved Problems: 🟠 **25** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> | Fastest Solution: 🔴 **22** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13">
 - **QOJ:** Rating: 🟡 **1800** | Accepted Problems： 🔹 **3**
 - **CodeChef:** Rank: ⚪ **Rookie League** | Total Problems Solved: 🟠 **3**
 
