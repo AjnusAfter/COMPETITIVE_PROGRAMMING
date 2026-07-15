@@ -1,3 +1,5 @@
+<img width="573" height="123" alt="approved" src="https://github.com/user-attachments/assets/fb694641-6a3b-4c9a-99a7-b9a4b0fbb429" />
+
 ## 🌐 Perfis:
 
 ### CODEFORCES
