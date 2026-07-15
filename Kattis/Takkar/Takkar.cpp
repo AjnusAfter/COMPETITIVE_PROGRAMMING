@@ -15,7 +15,16 @@ int main()
 {
     _;
 
-    
+    ll a, b;
+    cin >> a >> b;
+
+    // a > b ? cout << "MAGA!" : cout << "FAKE NEWS!";
+    if (a > b)
+        cout << "MAGA!" << ln;
+    else if (a < b)
+        cout << "FAKE NEWS!" << ln;
+    else
+        cout << "WORLD WAR 3!" << ln;
 
     return 0;
 }
