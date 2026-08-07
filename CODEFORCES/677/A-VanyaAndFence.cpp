@@ -15,7 +15,22 @@ int main()
 {
     _;
 
-    
+    ll n, h;
+    cin >> n >> h;
+
+    ll w = 0;
+    forn(i, 0, n)
+    {
+        ll a;
+        cin >> a;
+
+        if (a > h)
+            w += 2;
+        else
+            w++;
+    }
+
+    cout << w << ln;
 
     return 0;
 }
