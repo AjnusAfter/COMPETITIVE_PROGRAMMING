@@ -39,13 +39,13 @@
 ## 📊 Stats
 
 ### PROBLEMS
-- **CODEFORCES:**  Contest Rating: ⚫ **427; Newbie** | Solved Problems: 🔵 **29**
+- **CODEFORCES:**  Contest Rating: ⚫ **427; Newbie** | Solved Problems: 🔵 **30** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13">
 - **HackerRank:** Problem Solving: 🥈 **Silver Badge** | Python: 🥈 **Silver Badge** | C: 🥈 **Silver Badge**
-- **VJudge:** Tried: ⚪ **139** <img src="https://img.shields.io/static/v1?label=&message=%2B2&color=green&style=round-square" height="13"> | Solved: 🟠 **139** <img src="https://img.shields.io/static/v1?label=&message=%2B2&color=green&style=round-square" height="13"> | Ranking: 🔴 **#41024** <img src="https://img.shields.io/static/v1?label=&message=%2B241&color=green&style=round-square" height="13">
+- **VJudge:** Tried: ⚪ **140** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> | Solved: 🟠 **140** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> | Ranking: 🔴 **#40674** <img src="https://img.shields.io/static/v1?label=&message=%2B350&color=green&style=round-square" height="13">
 - **CSES:** Submission count: 🟣 **48** | Solved Problems: 🔵 **25**
 - **AtCoder:** Unrated | Solved Problems: 🔹 **11**
-- **Kattis:** Score: 🟣 **48.7** <img src="https://img.shields.io/static/v1?label=&message=%2B1.9&color=green&style=round-square" height="13"> | Ranking PUC-Rio: 🟡 **#7** | Rio de Janeiro: 🔵 **#26** |  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Brazil: 🇧🇷 **#257** <img src="https://img.shields.io/static/v1?label=&message=%2B10&color=green&style=round-square" height="13"> | Global: ⚫ **#33941** <img src="https://img.shields.io/static/v1?label=&message=%2B1064&color=green&style=round-square" height="13"> | Solved Problems: 🟠 **27** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> | Fastest Solution: 🔴 **23**
+- **Kattis:** Score: 🟣 **48.7** | Ranking PUC-Rio: 🟡 **#7** | Rio de Janeiro: 🔵 **#26** |  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Brazil: 🇧🇷 **#257** | Global: ⚫ **#33941** | Solved Problems: 🟠 **27** | Fastest Solution: 🔴 **23**
 - **QOJ:** Rating: 🟡 **1800** | Accepted Problems： 🔹 **3**
 - **CodeChef:** Rank: ⚪ **Rookie League** | Total Problems Solved: 🟠 **3**
 
