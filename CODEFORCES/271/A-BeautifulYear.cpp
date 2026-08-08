@@ -15,7 +15,19 @@ int main()
 {
     _;
 
+    ll y;
+    cin >> y;
+
+    y++;
+    string s = to_string(y);
     
+    while (s[0] == s[1] || s[0] == s[2] || s[0] == s[3] || s[0] == s[4] || s[1] == s[2] || s[1] == s[3] || s[1] == s[4] || s[2] == s[3] || s[2] == s[3] || s[3] == s[4])
+    {
+        y++;
+        s = to_string(y);
+    }
+
+    cout << y << ln;
 
     return 0;
 }
