@@ -15,7 +15,22 @@ int main()
 {
     _;
 
-    
+    ll n;
+    cin >> n;
+
+    ll tot_sum = 0;
+
+    ll i = 1;
+    while (i <= n)
+    {
+        ll q = n / i;
+        ll last = n / q;
+        tot_sum += q * (last - i + 1);
+        
+        i = last + 1;
+    }
+
+    cout << tot_sum << ln;
 
     return 0;
 }
