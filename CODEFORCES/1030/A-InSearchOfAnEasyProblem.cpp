@@ -15,7 +15,22 @@ int main()
 {
     _;
 
-    
+    ll n;
+    cin >> n;
+
+    forn(i, 0, n)
+    {
+        ll resp;
+        cin >> resp;
+
+        if (resp == 1)
+        {
+            cout << "HARD" << ln;
+            return 0;
+        }
+    }
+
+    cout << "EASY" << ln;
 
     return 0;
 }
