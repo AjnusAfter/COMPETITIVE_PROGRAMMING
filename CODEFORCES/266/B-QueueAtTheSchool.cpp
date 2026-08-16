@@ -15,7 +15,25 @@ int main()
 {
     _;
 
-    
+    ll n, t;
+    cin >> n >> t;
+
+    string s;
+    cin >> s;
+
+    while (t--)
+    {
+        forn(i, 0, n - 1)
+        {
+            if (s[i] == 'B' && s[i + 1] == 'G')
+            {
+                swap(s[i], s[i + 1]);
+                i++;
+            }
+        }
+    }
+
+    cout << s << ln;
 
     return 0;
 }
