@@ -34,20 +34,25 @@
 - jam_ajna
 - https://www.codechef.com/users/jam_ajna
 
+### Szkopul
+- Jam_Ajna
+- https://szkopul.edu.pl/~Jam_Ajna
+
 ---
 
 ## 📊 Stats
 
 ### PROBLEMS
-- **CODEFORCES:**  Contest Rating: ⚫ **427; Newbie** | Solved Problems: 🔵 **33** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13">
+- **CODEFORCES:**  Contest Rating: ⚫ **427; Newbie** | Solved Problems: 🔵 **34** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13">
 - **HackerRank:** Problem Solving: 🥈 **Silver Badge** | Python: 🥈 **Silver Badge** | C: 🥈 **Silver Badge**
-- **VJudge:** Tried: ⚪ **146** <img src="https://img.shields.io/static/v1?label=&message=%2B3&color=green&style=round-square" height="13"> | Solved: 🟠 **146** <img src="https://img.shields.io/static/v1?label=&message=%2B3&color=green&style=round-square" height="13"> | Ranking: 🔴 **#38647** <img src="https://img.shields.io/static/v1?label=&message=%2B1016&color=green&style=round-square" height="13">
+- **VJudge:** Tried: ⚪ **147** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> | Solved: 🟠 **147** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> | Ranking: 🔴 **#38313** <img src="https://img.shields.io/static/v1?label=&message=%2B334&color=green&style=round-square" height="13">
 - **CSES:** Submission count: 🟣 **48** | Solved Problems: 🔵 **25**
 - **AtCoder:** Unrated | Solved Problems: 🔹 **11**
-- **Kattis:** Score: 🟣 **56.6** | Ranking PUC-Rio: 🟡 **#7** | Rio de Janeiro: 🔵 **#25** |  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Brazil: 🇧🇷 **#231** | Global: ⚫ **#29324** | Solved Problems: 🟠 **30** | Fastest Solution: 🔴 **25**
-- **QOJ:** Rating: 🟡 **1800** | Accepted Problems： 🔹 **3**
+- **Kattis:** Score: 🟣 **59.7** <img src="https://img.shields.io/static/v1?label=&message=%2B3.1&color=green&style=round-square" height="13"> | Ranking PUC-Rio: 🟡 **#7** | Rio de Janeiro: 🔵 **#25** |  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Brazil: 🇧🇷 **#217** <img src="https://img.shields.io/static/v1?label=&message=%2B14&color=green&style=round-square" height="13"> | Global: ⚫ **#27878** <img src="https://img.shields.io/static/v1?label=&message=%2B1446&color=green&style=round-square" height="13"> | Solved Problems: 🟠 **31** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> | Fastest Solution: 🔴 **26** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13">
+- **QOJ:** Rating: 🟡 **1800** | Accepted Problems： 🔹 **4** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13">
 - **CodeChef:** Rank: ⚪ **Rookie League** | Total Problems Solved: 🟠 **3**
+- **Szkopul:** Solved Problems: 🔴 **1** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13">
 
 ### CONTESTS
 - **CODEFORCES:** [Codeforces Round 1090 (Div. 4)](https://codeforces.com/contest/2218)
