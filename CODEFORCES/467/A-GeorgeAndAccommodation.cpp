@@ -15,7 +15,22 @@ int main()
 {
     _;
 
-    
+    ll n;
+    cin >> n;
+
+    ll free_rooms = 0;
+    forn(i, 0, n)
+    {
+        ll p, q;
+        cin >> p >> q;
+
+        if (q - p >= 2)
+        {
+            free_rooms++;
+        }
+    }
+
+    cout << free_rooms << ln;
 
     return 0;
 }
