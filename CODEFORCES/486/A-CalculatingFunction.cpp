@@ -15,7 +15,18 @@ int main()
 {
     _;
 
+    ll n;
+    cin >> n;
 
+    if (n % 2 == 0)
+    {
+        cout << n / 2 << ln;
+    }
+
+    else
+    {
+        cout << -(n + 1) / 2 << ln;
+    }
 
     return 0;
 }
