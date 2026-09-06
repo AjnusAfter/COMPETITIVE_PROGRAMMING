@@ -15,7 +15,26 @@ int main()
 {
     _;
 
+    ll n;
+    cin >> n;
 
+    string prev, cur;
+    cin >> prev;
+
+    ll groups = 1;
+    forn(i, 1, n)
+    {
+        cin >> cur;
+
+        if (cur != prev)
+        {
+            groups++;
+        }
+
+        prev = cur;
+    }
+
+    cout << groups << ln;
 
     return 0;
 }
