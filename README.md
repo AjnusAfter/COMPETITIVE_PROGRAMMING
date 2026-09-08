@@ -1,4 +1,4 @@
-q<img width="573" height="123" alt="approved" src="https://github.com/user-attachments/assets/fb694641-6a3b-4c9a-99a7-b9a4b0fbb429" />
+<img width="573" height="123" alt="approved" src="https://github.com/user-attachments/assets/fb694641-6a3b-4c9a-99a7-b9a4b0fbb429" />
 
 ## 🌐 Perfis:
 
@@ -43,13 +43,13 @@ q<img width="573" height="123" alt="approved" src="https://github.com/user-attac
 ## 📊 Stats
 
 ### PROBLEMS
-- **CODEFORCES:**  Contest Rating: ⚫ **427; Newbie** | Solved Problems: 🔵 **38**
+- **CODEFORCES:**  Contest Rating: ⚫ **427; Newbie** | Solved Problems: 🔵 **39** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13">
 - **HackerRank:** Problem Solving: 🥈 **Silver Badge** | Python: 🥈 **Silver Badge** | C: 🥈 **Silver Badge**
-- **VJudge:** Tried: ⚪ **153** | Solved: 🟠 **153** | Ranking: 🔴 **#36687**
+- **VJudge:** Tried: ⚪ **154** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> | Solved: 🟠 **154** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> | Ranking: 🔴 **#36390** <img src="https://img.shields.io/static/v1?label=&message=%2B297&color=green&style=round-square" height="13">
 - **CSES:** Submission count: 🟣 **48** | Solved Problems: 🔵 **25**
 - **AtCoder:** Unrated | Solved Problems: 🔹 **11**
-- **Kattis:** Score: 🟣 **71.6** <img src="https://img.shields.io/static/v1?label=&message=%2B3.2&color=green&style=round-square" height="13"> | Ranking PUC-Rio: 🟡 **#4** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> | Rio de Janeiro: 🔵 **#23** <img src="https://img.shields.io/static/v1?label=&message=%2B2&color=green&style=round-square" height="13"> |  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Brazil: 🇧🇷 **#185** <img src="https://img.shields.io/static/v1?label=&message=%2B10&color=green&style=round-square" height="13"> | Global: ⚫ **#23212** <img src="https://img.shields.io/static/v1?label=&message=%2B1109&color=green&style=round-square" height="13"> | Solved Problems: 🟠 **35** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> | Fastest Solution: 🔴 **29** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13">
+- **Kattis:** Score: 🟣 **71.6** | Ranking PUC-Rio: 🟡 **#4** | Rio de Janeiro: 🔵 **#23** |  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Brazil: 🇧🇷 **#185** | Global: ⚫ **#23212** | Solved Problems: 🟠 **35** | Fastest Solution: 🔴 **29**
 - **QOJ:** Rating: 🟡 **1800** | Accepted Problems： 🔹 **4**
 - **CodeChef:** Rank: ⚪ **Rookie League** | Total Problems Solved: 🟠 **3**
 - **Szkopul:** Solved Problems: 🔴 **1**
