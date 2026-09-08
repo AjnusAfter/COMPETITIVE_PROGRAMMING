@@ -15,7 +15,19 @@ int main()
 {
     _;
 
-    
+    ll n;
+    cin >> n;
+
+    double juice = 0;
+    forn(i, 0, n)
+    {
+        ll p;
+        cin >> p;
+
+        juice += p;
+    }
+
+    cout << juice / n << ln;
     
     return 0;
 }
