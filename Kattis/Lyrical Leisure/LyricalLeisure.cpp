@@ -14,8 +14,27 @@ typedef pair<ll, ll> p64;
 int main()
 {
     _;
+    
+    ll n, k;
+    cin >> n >> k;
 
+    string ans = "";
 
+    if (k == 1)
+    {
+        string pat = "abc";
+        
+        forn(i, 0, n) ans += pat[i % 3];
+    }
+    else
+    {
+        forn(i, 0, k) ans += 'a';
+        string pat = "bcd";
+        
+        forn(i, k, n) ans += pat[(i - k) % 3];
+    }
 
+    cout << ans << ln;
+    
     return 0;
 }
