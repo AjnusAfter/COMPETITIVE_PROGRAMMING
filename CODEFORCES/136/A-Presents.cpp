@@ -14,8 +14,23 @@ typedef pair<ll, ll> p64;
 int main()
 {
     _;
-    
-    
-    
+
+    ll n;
+    cin >> n;
+
+    v64 p(n + 1), ans(n + 1);
+
+    forn(i, 1, n + 1)
+    {
+        cin >> p[i];
+        ans[p[i]] = i;
+    }
+
+    forn(i, 1, n + 1)
+    {
+        cout << ans[i] << " ";
+    }
+    cout << ln;
+
     return 0;
 }
