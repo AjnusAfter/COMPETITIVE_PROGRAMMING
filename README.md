@@ -43,13 +43,13 @@
 ## 📊 Stats
 
 ### PROBLEMS
-- **CODEFORCES:**  Contest Rating: ⚫ **427; Newbie** | Solved Problems: 🔵 **39**
+- **CODEFORCES:**  Contest Rating: ⚫ **427; Newbie** | Solved Problems: 🔵 **40** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13">
 - **HackerRank:** Problem Solving: 🥈 **Silver Badge** | Python: 🥈 **Silver Badge** | C: 🥈 **Silver Badge**
-- **VJudge:** Tried: ⚪ **154** | Solved: 🟠 **154** | Ranking: 🔴 **#36390**
+- **VJudge:** Tried: ⚪ **155** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> | Solved: 🟠 **155** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> | Ranking: 🔴 **#36137** <img src="https://img.shields.io/static/v1?label=&message=%2B253&color=green&style=round-square" height="13">
 - **CSES:** Submission count: 🟣 **48** | Solved Problems: 🔵 **25**
 - **AtCoder:** Unrated | Solved Problems: 🔹 **11**
-- **Kattis:** Score: 🟣 **74.2**  <img src="https://img.shields.io/static/v1?label=&message=%2B2.6&color=green&style=round-square" height="13"> | Ranking PUC-Rio: 🟡 **#4** | Rio de Janeiro: 🔵 **#22** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> |  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Brazil: 🇧🇷 **#177** <img src="https://img.shields.io/static/v1?label=&message=%2B8&color=green&style=round-square" height="13"> | Global: ⚫ **#22342** <img src="https://img.shields.io/static/v1?label=&message=%2B870&color=green&style=round-square" height="13"> | Solved Problems: 🟠 **36** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> | Fastest Solution: 🔴 **30** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13">
+- **Kattis:** Score: 🟣 **74.2**  | Ranking PUC-Rio: 🟡 **#4** | Rio de Janeiro: 🔵 **#22** |  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Brazil: 🇧🇷 **#177** | Global: ⚫ **#22342** | Solved Problems: 🟠 **36** | Fastest Solution: 🔴 **30**
 - **QOJ:** Rating: 🟡 **1800** | Accepted Problems： 🔹 **4**
 - **CodeChef:** Rank: ⚪ **Rookie League** | Total Problems Solved: 🟠 **3**
 - **Szkopul:** Solved Problems: 🔴 **1**
