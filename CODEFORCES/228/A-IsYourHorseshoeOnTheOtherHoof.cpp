@@ -11,12 +11,21 @@ typedef pair<ll, ll> p64;
 #define forn(i, s, e) for (ll i = (s); i < (e); i++)
 #define ln "\n"
 
-
 int main()
 {
     _;
-
     
+    set<ll> st;
+
+    forn(i, 0, 4) 
+    {
+        ll x;
+        cin >> x;
+        
+        st.insert(x);
+    }
+
+    cout << 4 - st.size() << ln;
 
     return 0;
 }
