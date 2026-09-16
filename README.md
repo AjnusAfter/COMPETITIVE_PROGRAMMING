@@ -43,13 +43,13 @@
 ## 📊 Stats
 
 ### PROBLEMS
-- **CODEFORCES:**  Contest Rating: ⚫ **427; Newbie** | Solved Problems: 🔵 **41** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13">
+- **CODEFORCES:**  Contest Rating: ⚫ **427; Newbie** | Solved Problems: 🔵 **41**
 - **HackerRank:** Problem Solving: 🥈 **Silver Badge** | Python: 🥈 **Silver Badge** | C: 🥈 **Silver Badge**
-- **VJudge:** Tried: ⚪ **158** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> | Solved: 🟠 **158** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> | Ranking: 🔴 **#35220** <img src="https://img.shields.io/static/v1?label=&message=%2B328&color=green&style=round-square" height="13">
+- **VJudge:** Tried: ⚪ **163** <img src="https://img.shields.io/static/v1?label=&message=%2B5&color=green&style=round-square" height="13"> | Solved: 🟠 **163** <img src="https://img.shields.io/static/v1?label=&message=%2B5&color=green&style=round-square" height="13"> | Ranking: 🔴 **#33770** <img src="https://img.shields.io/static/v1?label=&message=%2B1450&color=green&style=round-square" height="13">
 - **CSES:** Submission count: 🟣 **48** | Solved Problems: 🔵 **25**
 - **AtCoder:** Unrated | Solved Problems: 🔹 **11**
-- **Kattis:** Score: 🟣 **77.3** | Ranking PUC-Rio: 🟡 **#4** | Rio de Janeiro: 🔵 **#22** |  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Brazil: 🇧🇷 **#172** | Global: ⚫ **#21281** | Solved Problems: 🟠 **37** | Fastest Solution: 🔴 **31**
+- **Kattis:** Score: 🟣 **79.4** <img src="https://img.shields.io/static/v1?label=&message=%2B2.1&color=green&style=round-square" height="13"> | Ranking PUC-Rio: 🟡 **#4** | Rio de Janeiro: 🔵 **#22** |  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Brazil: 🇧🇷 **#167** <img src="https://img.shields.io/static/v1?label=&message=%2B5&color=green&style=round-square" height="13"> | Global: ⚫ **#20702** <img src="https://img.shields.io/static/v1?label=&message=%2B579&color=green&style=round-square" height="13"> | Solved Problems: 🟠 **38** <img src="https://img.shields.io/static/v1?label=&message=%2B1&color=green&style=round-square" height="13"> | Fastest Solution: 🔴 **31**
 - **QOJ:** Rating: 🟡 **1800** | Accepted Problems： 🔹 **4**
 - **CodeChef:** Rank: ⚪ **Rookie League** | Total Problems Solved: 🟠 **3**
 - **Szkopul:** Solved Problems: 🔴 **1**
